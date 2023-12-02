@@ -1,0 +1,6 @@
+go 1.21.4
+
+use (
+	./puzzle_2
+	./puzzle_2-2
+)

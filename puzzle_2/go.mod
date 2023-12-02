@@ -1,4 +1,4 @@
-module puzzle_1-2
+module puzzle_2
 
 go 1.21.4
 
